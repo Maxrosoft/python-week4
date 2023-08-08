@@ -2,6 +2,8 @@
 
 FitBot is a Telegram bot designed to assist users in achieving their fitness and nutrition goals. This document provides a detailed technical specification (TS) for the development of such a bot.
 
+**answer any incorrectly entered data with "I don't understand you, write /help"** 
+
 ### Features
 
 1. **Greeting**
